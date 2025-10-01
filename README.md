@@ -1,6 +1,7 @@
 Video Frame Search API
 
 A powerful FastAPI application that enables intelligent video frame extraction and similarity search using vector embeddings. Upload videos, extract frames automatically, and find visually similar frames using advanced computer vision techniques.
+
 🚀 Features
 
 Video Processing: Supports multiple video formats (MP4, AVI, MOV, MKV)
@@ -99,9 +100,9 @@ Async Operations: Non-blocking I/O operations
 
 
 
-GitHub: @faris-sait
-LinkedIn: https://www.linkedin.com/in/farissait
-Email: farissait@gmail.com
+GitHub: @FirnasFaizal
+LinkedIn: [https://www.linkedin.com/in/farissait](https://www.linkedin.com/in/firnas-faizal-462633317/)
+Email: firnazz3482@gmail.com
 
 🙏 Acknowledgments
 
@@ -119,8 +120,3 @@ Storage Efficiency: 4KB per frame vector
 
 
 ⭐ **Star this repository if you find it helpful**
-
-
-
-
-
