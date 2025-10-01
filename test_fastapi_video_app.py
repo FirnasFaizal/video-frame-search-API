@@ -4,7 +4,7 @@ FastAPI Video Frame Search - Test Script
 This script tests the video frame extraction and similarity search functionality
 of the FastAPI application.
 
-Author: [Mohammed Faris Sait]
+Author: [Muhammed Firnas Faizal]
 Date: June 2025
 
 Usage:
@@ -95,3 +95,4 @@ if __name__ == "__main__":
     else:
         print(" Video upload failed - skipping query test")
         print(" Make sure the FastAPI server is running and test files exist")
+
