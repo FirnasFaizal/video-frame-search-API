@@ -1,7 +1,7 @@
 """
 Video Frame Search API using FastAPI
 
-Author: Mohammed Faris Sait
+Author: Muhammed Firnas Faizal
 
 This is the main FastAPI app that:
 - Accepts video uploads
