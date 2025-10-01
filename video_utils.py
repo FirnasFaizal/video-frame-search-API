@@ -1,7 +1,7 @@
 """
 Video Frame Extraction Utility
 
-Author: Mohammed Faris Sait
+Author: Muhammed Firnas Faizal
 
 This module handles:
 - Extracting frames from a given video at a fixed interval (default: 1 frame per second)
@@ -33,3 +33,4 @@ def extract_frames(video_path, output_dir, interval=1):
         count += 1
     cap.release()
     return saved_frames
+
